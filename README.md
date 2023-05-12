@@ -54,7 +54,7 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 
 *Marcus LeGare (Author, Developer)*
 
-*Tristan Ortiz (Learning Assistant)*
+*Tristen Ortiz (Learning Assistant)*
 
 ### LICENSE
 
