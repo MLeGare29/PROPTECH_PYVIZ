@@ -48,6 +48,7 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 
 ## GALLERY
 
+![bokeh_plot](https://github.com/MLeGare29/M6_CHALLENGE/assets/127421460/dba08945-dae5-490d-a67d-a91438b0218a)
 
 ## CONTRIBUTORS
 
