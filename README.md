@@ -1,5 +1,3 @@
-# M6_CHALLENGE
-
 # PROPTECH TRIAL: SAN FRANCISCO RENTAL MARKET
 
 In pursuit of a full rollout of the one-click buy/rent investment platform, I have simulated the Proptech feature using San Francisco as the real-estate market. This feature not only analyzes various real estate metrics by neighborhood, it also visualizes the outputs in stunning, interactive detail. This will be achieved by completing the following:
